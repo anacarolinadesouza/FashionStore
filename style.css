@@ -1,0 +1,12 @@
+body {
+	background: rgb(213,169,222);
+}
+
+strong {
+	color: rgb(85,25,87);
+}
+p {
+	font-size: 75px;
+    text-align: center;
+    color: rgb(0,0,0);
+}
